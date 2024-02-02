@@ -14,8 +14,8 @@ import 'features.dart';
 const String kCloudHost = 'https://storage.googleapis.com/';
 const String kCocoaPods = 'https://cocoapods.org/';
 const String kGitHub = 'https://github.com/';
-const String kMaven = 'https://maven.google.com/';
-const String kPubDev = 'https://pub.dev/';
+const String kMaven = 'https://maven.aliyun.com/repository/google/';
+const String kPubDev = 'https://mirrors.tuna.tsinghua.edu.cn/dart-pub';
 
 // Overridable environment variables.
 const String kPubDevOverride = 'PUB_HOSTED_URL'; // https://dart.dev/tools/pub/environment-variables
